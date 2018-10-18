@@ -1,0 +1,7 @@
+- animation
+- clip-path
+- grid
+- position
+- backgroud. Zaskoczyły mnie ostatnio parametr tła fixed który ma wpływ na dzieci. To przydatne w blurach
+- custom elements i shadow DOM
+- CSS paint API
